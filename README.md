@@ -1,2 +1,2 @@
-# todo2
+# todo list
 HTML/CSS/JavaScript
